@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="42db95e9-ff13-4198-8687-737e86ce2df3" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/video-js-rails.gemspec" afterPath="$PROJECT_DIR$/video-js-rails.gemspec" />
-    </list>
+    <list default="true" id="42db95e9-ff13-4198-8687-737e86ce2df3" name="Default" comment="" />
     <ignored path="video-js-rails.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -27,7 +25,7 @@
       <file leaf-file-name="video-js-rails.gemspec" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/video-js-rails.gemspec">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="17" column="36" selection-start="828" selection-end="828" vertical-scroll-proportion="0.23014441" vertical-offset="0" max-vertical-offset="1108">
+            <state line="15" column="89" selection-start="790" selection-end="790" vertical-scroll-proportion="0.2030686" vertical-offset="0" max-vertical-offset="1108">
               <folding />
             </state>
           </provider>
@@ -185,7 +183,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/video-js-rails.gemspec">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="36" selection-start="828" selection-end="828" vertical-scroll-proportion="0.23014441" vertical-offset="0" max-vertical-offset="1108">
+        <state line="15" column="89" selection-start="790" selection-end="790" vertical-scroll-proportion="0.2030686" vertical-offset="0" max-vertical-offset="1108">
           <folding />
         </state>
       </provider>
